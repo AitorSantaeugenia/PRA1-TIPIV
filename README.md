@@ -1,5 +1,6 @@
 # Pràctica 1 - Tractament i publicació d'imatge i vídeo
-Pràctica 1 - Tractament i publicació d'imatge i vídeo
+Pràctica 1 - Tractament i publicació d'imatge i vídeo<br>
+Universitat Oberta de Catalunya
 <br><br>
 - Exercicis de Processing tractant imatges (filtres, detecció de contorns, realça contorns, suavització d'imatges, enfosquiment/aclariment d'imatges, etc).<br>
 - Ejercicios de Processing tratando imagenes (filtros, detección de contornos, realzar contornos, suavización de imágenes, oscurecer/aclaración de imágenes, etc).
